@@ -1,0 +1,116 @@
+html {
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+img {
+  display: flex;
+  width: 30px;
+  height: auto;
+  margin: 8px;
+}
+
+.icons {
+  display: flex;
+  align-items: flex-start;
+
+}
+
+.logo {
+  width: 100px;
+}
+
+.img-header {
+  width: 15vmax;
+}
+
+.top {
+  display: flex;
+  margin-bottom: 10px;
+  background-color: black;
+  justify-content: space-between;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 3vmax;
+}
+
+.top-2nd {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  justify-content: space-around;
+  flex: 1;
+  /* gap: 50px; */
+  border-radius: 3vmax;
+
+}
+
+p {
+  text-align: justify;
+  margin: 10px;
+  font-weight: 100;
+  font-size: 1.3vmax;
+  padding: 1vmax;
+}
+
+.img-header {
+  margin: 30px;
+  border: double 3px white;
+  border-radius: 3vmax;
+}
+
+.footer {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  background-color: black;
+  padding-block: 10px;
+}
+
+.content {
+  padding: 1vmax;
+}
+
+.author {
+  font-size: 1.4vmax;
+}
+
+.main .items img {
+  width: 18vmax;
+  margin: 0;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  justify-content: space-between;
+  border: double 3px white;
+  border-bottom-left-radius: 3vmax;
+
+}
+
+.item-txt {
+  font-size: 1vmax;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+}
