@@ -3,6 +3,10 @@ The Odin Project - Foundation Course: Landing page project
 
 
 
+![Screenshot 2022-08-02 at 11 45 51](https://user-images.githubusercontent.com/108272278/182334048-9858ec44-009c-4ca2-ae80-8321286136e5.png)
+
+
+
 Credits:
 
 Photo by Jessie Crettenden: https://www.pexels.com/photo/bare-tree-on-brown-sand-under-blue-sky-3714891/
